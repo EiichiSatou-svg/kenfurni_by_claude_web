@@ -122,7 +122,7 @@ CREATE DATABASE kenfurni_database CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_
 ```properties
 spring.datasource.url=jdbc:mysql://localhost:3306/kenfurni_database
 spring.datasource.username=root
-spring.datasource.password=root
+spring.datasource.password=XXXXXXXXX
 spring.jpa.hibernate.ddl-auto=none
 ```
 
